@@ -25,6 +25,6 @@
 
 ## About
 
-This backend along with the [Andrdoid frontend](https://github.com/lehtihet/SnapApp) was developed as a part of [Developing Mobile Applications](https://www.kth.se/student/kurser/kurs/ID2216?l=en) at KTH. 
+This backend along with the [Android frontend](https://github.com/lehtihet/SnapApp) was developed as a part of [Developing Mobile Applications](https://www.kth.se/student/kurser/kurs/ID2216?l=en) at KTH. 
 
 Many simplifications were made because of the limited time available for this project. In particular, the lack of login functionality for service professionals limited the database design quite significantly. 
